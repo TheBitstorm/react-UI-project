@@ -18,17 +18,4 @@ This project focuses on clean design, reusable components, and interactive front
 * CSS
 * Vite
 
-## 📦 Installation
 
-```bash
-npm install
-npm run dev
-```
-
-## 📷 Preview
-
-Frontend UI project created for practicing and improving React.js skills.
-
-## 👨‍💻 Author
-
-Diya Mandal
